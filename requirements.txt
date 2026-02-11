@@ -120,7 +120,7 @@ parso==0.8.4
 pathos==0.3.2
 pathspec==0.12.1
 pexpect==4.9.0
-pillow==10.4.0
+pillow==12.1.1
 pkginfo==1.10.0
 platformdirs==4.2.2
 plotly==5.23.0
