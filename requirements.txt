@@ -21,7 +21,7 @@ cloudpickle==3.0.0
 comm==0.2.2
 contourpy==1.2.1
 coverage==7.6.0
-cryptography==43.0.3
+cryptography==46.0.5
 cssselect2==0.7.0
 cycler==0.12.1
 datrie==0.8.2
